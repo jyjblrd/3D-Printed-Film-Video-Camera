@@ -2,18 +2,16 @@
 
 Check out my blog post for more details! [https://joshuabird.com/blog/post/3d-printed-film-video-camera](https://joshuabird.com/blog/post/3d-printed-film-video-camera)
 
-### Sample Video
+## Sample Video
 
 https://user-images.githubusercontent.com/40762456/205506965-39d1022d-032c-4b84-8421-8c9870a0af29.mp4
 
-See the whole video here: [https://www.youtube.com/watch?v=t2DGouNMKbs](https://www.youtube.com/watch?v=t2DGouNMKbs)
+## See the whole video here: [https://www.youtube.com/watch?v=t2DGouNMKbs](https://www.youtube.com/watch?v=t2DGouNMKbs)
 
-### Example images
+## Example images
 <img src="https://github.com/jyjblrd/3D-Printed-Film-Video-Camera/blob/main/example-images/img1.jpg?raw=true" width="500" />
 <img src="https://github.com/jyjblrd/3D-Printed-Film-Video-Camera/blob/main/example-images/img2.jpg?raw=true" width="500" />
 <img src="https://github.com/jyjblrd/3D-Printed-Film-Video-Camera/blob/main/example-images/img3.jpg?raw=true" width="500" />
 <img src="https://github.com/jyjblrd/3D-Printed-Film-Video-Camera/blob/main/example-images/img4.jpg?raw=true" width="500" />
 <img src="https://github.com/jyjblrd/3D-Printed-Film-Video-Camera/blob/main/example-images/img5.jpg?raw=true" width="500" />
-
-https://user-images.githubusercontent.com/40762456/205506955-1e505a32-0b72-46f0-a4f1-827884ade35c.mp4
 
